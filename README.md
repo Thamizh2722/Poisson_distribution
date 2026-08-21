@@ -74,8 +74,8 @@ else:
 
  
 
-# Output : "C:\Users\vm594\OneDrive\Pictures\Screenshots\Screenshot 2026-08-21 153711.png"
-
+# Output : 
+<img width="652" height="307" alt="Screenshot 2026-08-21 153711" src="https://github.com/user-attachments/assets/fc655e99-998b-42f2-8202-191b8e6dc7bf" />
 
 
 # Results
